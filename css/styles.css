@@ -11732,3 +11732,7 @@ html {
     left: -2vw;
   }
 }
+
+.custom-link {
+  color: #e21e80;
+}
