@@ -11735,4 +11735,5 @@ html {
 
 .custom-link {
   color: #e21e80;
+  font-weight: bold; /* Makes the link bold */
 }
